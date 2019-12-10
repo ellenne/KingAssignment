@@ -1,0 +1,5 @@
+abtest_group,study_period,purchases,games_played,total_count_players,total_count_distinct_players
+A,pre-study,2097873,904141275,68584814,6776037
+B,pre-study,527032,225594338,17124281,1692085
+A,study,3026957,1310623544,99419615,8265610
+B,study,810833,321157226,24833647,2065446
